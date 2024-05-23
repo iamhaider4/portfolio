@@ -3,7 +3,7 @@ import React from 'react';
 const AboutMeSection = () => {
   return (
     <div className="about-me-section">
-      {/* <img src="haiderprofile.jpg" alt="Your Photo" /> */}
+      {/* <img src="haiderprofile.jpg" alt="Your " /> */}
       <h2>About Me</h2>
       <p>
       A highly motivated and results-oriented Software Engineer with extensive experience in e-commerce platform integration and development. 
